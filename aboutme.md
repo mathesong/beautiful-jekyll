@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Granville Matheson.  I'm currently a PhD student at Karolinska Institutet in Stockholm, Sweden working with positron emission tomography (PET).  I'm interested in brains, behaviour, modelling and stats, and R is my happy place.  I'm the author of the [kinfitr](https://github.com/mathesong/kinfitr), for PET kinetic modelling in R.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This is my personal page for data science side projects, or main projects or for whatever else ends up here.
