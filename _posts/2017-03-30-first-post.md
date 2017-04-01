@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-tags: [random]
+tags: [misc]
 ---
 
-Hello world!
+Hello world..?
